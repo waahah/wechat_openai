@@ -1,6 +1,7 @@
 # OpenAI on WeChat ![Railway Deploy](https://img.shields.io/github/checks-status/kx-huang/chatgpt-on-wechat/master?logo=railway&style=flat) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue) <!-- omit in toc -->
 
 🤖️ [**只需2 个步骤**](#12-deploy-on-cloud)将您的微信变成由 OpenAI 提供支持的自动回复聊天机器人！ 🤖️
+> [English](README.md) | 中文文档
 
 ![Your Chatbot in Group Chat!](doc/img/demo.png)
 
