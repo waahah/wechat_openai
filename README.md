@@ -1,6 +1,7 @@
 # OpenAI on WeChat ![Railway Deploy](https://img.shields.io/github/checks-status/kx-huang/chatgpt-on-wechat/master?logo=railway&style=flat) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue) <!-- omit in toc -->
 
 🤖️ Turn your WeChat into an auto-reply chatbot powered by OpenAI [**within only 2 steps!**](#12-deploy-on-cloud) 🤖️
+> English | [中文文档](README_ZH.md)
 
 ![Your Chatbot in Group Chat!](doc/img/demo.png)
 
@@ -100,6 +101,14 @@ Once you deploy the bot successfully, just follow the `terminal` or `Logs` in Do
 🤖 **Enjoy your powerful chatbot!** 🤖
 
 ---
+
+## Install
+
+```bash
+npm config set puppeteer_download_host=https://npm.taobao.org/mirrors
+npm install
+npm run dev
+```
 
 ### 1.2 Deploy on Cloud
 
